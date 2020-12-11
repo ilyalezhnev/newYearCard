@@ -1,0 +1,32 @@
+<svg width="250" height="96" viewBox="0 0 250 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="60" height="6" fill="#BB4545"/>
+<rect y="10" width="60" height="6" fill="#BB4545"/>
+<rect y="40" width="60" height="6" fill="#ECECEC"/>
+<rect x="54" y="38" width="20" height="6" transform="rotate(-90 54 38)" fill="#C2AD5F"/>
+<rect x="44" y="38" width="20" height="6" transform="rotate(-90 44 38)" fill="#C2AD5F"/>
+<rect x="10" y="78" width="20" height="6" transform="rotate(-90 10 78)" fill="#5289DB"/>
+<rect y="78" width="20" height="6" transform="rotate(-90 0 78)" fill="#5289DB"/>
+<rect y="50" width="60" height="6" fill="#ECECEC"/>
+<rect y="80" width="60" height="6" fill="#BB4545"/>
+<rect y="90" width="60" height="6" fill="#BB4545"/>
+<rect x="160" width="60" height="6" fill="#BB4545"/>
+<rect x="160" y="10" width="60" height="6" fill="#BB4545"/>
+<rect x="160" y="40" width="60" height="6" fill="#ECECEC"/>
+<rect x="214" y="38" width="20" height="6" transform="rotate(-90 214 38)" fill="#C2AD5F"/>
+<rect x="204" y="38" width="20" height="6" transform="rotate(-90 204 38)" fill="#C2AD5F"/>
+<rect x="170" y="78" width="20" height="6" transform="rotate(-90 170 78)" fill="#5289DB"/>
+<rect x="160" y="78" width="20" height="6" transform="rotate(-90 160 78)" fill="#5289DB"/>
+<rect x="234" y="96" width="96" height="6" transform="rotate(-90 234 96)" fill="#5289DB"/>
+<rect x="244" y="96" width="96" height="6" transform="rotate(-90 244 96)" fill="#5289DB"/>
+<rect x="160" y="50" width="60" height="6" fill="#ECECEC"/>
+<rect x="160" y="80" width="60" height="6" fill="#BB4545"/>
+<rect x="160" y="90" width="60" height="6" fill="#BB4545"/>
+<rect x="80" width="60" height="6" fill="#BB4545"/>
+<rect x="80" y="10" width="60" height="6" fill="#BB4545"/>
+<rect x="124" y="78" width="60" height="6" transform="rotate(-90 124 78)" fill="#C2AD5F"/>
+<rect x="134" y="78" width="60" height="6" transform="rotate(-90 134 78)" fill="#C2AD5F"/>
+<rect x="80" y="78" width="60" height="6" transform="rotate(-90 80 78)" fill="#ECECEC"/>
+<rect x="90" y="78" width="60" height="6" transform="rotate(-90 90 78)" fill="#ECECEC"/>
+<rect x="80" y="80" width="60" height="6" fill="#BB4545"/>
+<rect x="80" y="90" width="60" height="6" fill="#BB4545"/>
+</svg>
