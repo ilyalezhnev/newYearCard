@@ -12,13 +12,17 @@
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
-
       gtag("config", "G-4ZWZYRKPNL");
     </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Happy New Year greeting for my friends!"
+    />
+    <meta name="robots" content="index, follow" />
     <link rel="stylesheet" href="./assets/styles.css" />
-    <title>HNY, friend!</title>
+    <title>Happy New Year!</title>
   </head>
   <body>
     <header><img src="assets/img/quest.svg" /></header>
@@ -32,7 +36,15 @@
       </section>
     </main>
     <footer>
-      <a href="https://www.instagram.com/ilee.code/" rel="noopener noreferrer">
+      <a
+        href="https://www.instagram.com/ilee.code/"
+        rel="noopener noreferrer"
+        onclick='gtag("event", "go_to_instagram", {
+        event_category: "click",
+        event_label: "click on acc",
+        value: "1",
+      })'
+      >
         <img src="./assets/img/instagram.svg" />
         ilee.code
       </a>
