@@ -66,8 +66,15 @@ footer {
 }
 
 footer a {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
   color: #ffffff;
   text-decoration: none;
+}
+
+footer a img {
+  margin-right: 6px;
 }
 
 @media (min-width: 768px) {
